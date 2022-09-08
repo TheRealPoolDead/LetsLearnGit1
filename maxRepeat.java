@@ -25,5 +25,6 @@ public class maxRepeat
             }
         }
         System.out.println("The Max repeating character is: " +c);
+		System.out.println("Adding new changes for git");
     }
 }
